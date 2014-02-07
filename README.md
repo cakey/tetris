@@ -1,4 +1,4 @@
-## Visualisation over time and space of trends in music
+## Tetris
 
 ## setup
     # 1. Install node
@@ -12,7 +12,5 @@
 ## stack
  * http://sass-lang.com/guide
  * http://coffeescript.org/
- * https://developers.google.com/maps/documentation/javascript/tutorial
- * http://docs.angularjs.org/guide/
  * http://jade-lang.com/
  * http://gulpjs.com/
